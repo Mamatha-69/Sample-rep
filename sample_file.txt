@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hai 
 Hello
+=======
+Helloooo
+>>>>>>> branch3

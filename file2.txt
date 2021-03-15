@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sample
+=======
+Hello world
+>>>>>>> branch3
